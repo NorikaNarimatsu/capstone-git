@@ -30,10 +30,8 @@ The citation information attributed to KAKENHI projects was obtained through the
 | File | Content |
 | ------------- | ------------- |
 | 1_download_xml_files.ipynb| Code to downloading all research projects XML files from KAKEN|
-| 2_parse_master.ipynb | Code to store KAKEN Master Documents to local MariaDB
-|
-| 3_parse_grantaward.ipynb | Code to store all projects between 2000 and 2022 to local MariaDB
-|
+| 2_parse_master.ipynb | Code to store KAKEN Master Documents to local MariaDB |
+| 3_parse_grantaward.ipynb | Code to store all projects between 2000 and 2022 to local MariaDB|
 
 **External Sources**
 | File | Content |
