@@ -1,8 +1,5 @@
 
-# Capstone Thesis Repository
-
-## Effects of flexible funding system implementation in scientific grant: a case study of Japanese competitive research grant, KAKENHI.
-*Minerva University Capstone Project*
+## Capstone Thesis Repository
 
 ## Research question:
 *What is the impact of flexible funding system implementation in KAKENHI on scientific outputs?*
