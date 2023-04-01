@@ -48,7 +48,7 @@ See https://support.nii.ac.jp/ja/cinii/api/developer for details. After the regi
 ## How to Run the RDD and DID analysis 
 Step1. clone the repository
 ```
-git clone [https://github.com/berdikhanova/DS4SG-Global-Inequality.git](https://github.com/NorikaNarimatsu/capstone-git)
+git clone [https://github.com/NorikaNarimatsu/capstone-git]
 ```
 Step2. Run the code in database_code in the order
 Step3. Parse KAKEN master Data and KAKEN Grant Data to MariaDB
