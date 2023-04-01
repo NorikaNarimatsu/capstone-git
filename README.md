@@ -45,22 +45,16 @@ See https://support.nii.ac.jp/ja/cinii/api/developer for details. After the regi
  
 2. Need to install MariaDB locally and keep running while coding. 
 
-
-
-## How to Run the Application Locally
+## How to Run the RDD and DID analysis 
+Step1. clone the repository
 ```
-# clone the repository
-git clone https://github.com/berdikhanova/DS4SG-Global-Inequality.git
-
-# Go to the directory of the repository
-cd DS4SG-Global-Inequality
-
-# Install required packages
-pip install -r requirements.txt
-
-# Run app
-python quiz_game.py
+git clone [https://github.com/berdikhanova/DS4SG-Global-Inequality.git](https://github.com/NorikaNarimatsu/capstone-git)
 ```
+Step2. Run the code in database_code in the order
+Step3. Parse KAKEN master Data and KAKEN Grant Data to MariaDB
+Step4. Run the datacleaning file in analysis_code 
+Step5. Run the RDD or DiD file.
+
 
 ## Dependencies
 
