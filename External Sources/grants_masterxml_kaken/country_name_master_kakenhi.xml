@@ -1,0 +1,1783 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<country_name_table_list>
+  <country_name_table type="country_name" start_date="1965-04-01">
+    <record_set_list>
+      <record_set>kakenhi</record_set>
+    </record_set_list>
+    <country_name>
+      <code type="nii">1</code>
+      <code type="jsps">AFG</code>
+      <name lang="ja">アフガニスタン</name>
+      <name lang="en">AFGHANISTAN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">3</code>
+      <code type="jsps">ALB</code>
+      <name lang="ja">アルバニア</name>
+      <name lang="en">ALBANIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">51</code>
+      <code type="jsps">DZA</code>
+      <name lang="ja">アルジェリア</name>
+      <name lang="en">ALGERIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">4</code>
+      <code type="jsps">AND</code>
+      <name lang="ja">アンドラ</name>
+      <name lang="en">ANDORRA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">2</code>
+      <code type="jsps">AGO</code>
+      <name lang="ja">アンゴラ</name>
+      <name lang="en">ANGOLA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">8</code>
+      <code type="jsps">ATG</code>
+      <name lang="ja">アンティグア・バーブーダ</name>
+      <name lang="en">ANTIGUA &amp; BARBUDA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">6</code>
+      <code type="jsps">ARG</code>
+      <name lang="ja">アルゼンチン</name>
+      <name lang="en">ARGENTINA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">7</code>
+      <code type="jsps">ARM</code>
+      <name lang="ja">アルメニア</name>
+      <name lang="en">ARMENIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">9</code>
+      <code type="jsps">AUS</code>
+      <name lang="ja">オーストラリア</name>
+      <name lang="en">AUSTRALIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">10</code>
+      <code type="jsps">AUT</code>
+      <name lang="ja">オーストリア</name>
+      <name lang="en">AUSTRIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">11</code>
+      <code type="jsps">AZE</code>
+      <name lang="ja">アゼルバイジャン</name>
+      <name lang="en">AZERBAIDJAN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">19</code>
+      <code type="jsps">BHS</code>
+      <name lang="ja">バハマ</name>
+      <name lang="en">BAHAMAS</name>
+    </country_name>
+    <country_name>
+      <code type="nii">18</code>
+      <code type="jsps">BHR</code>
+      <name lang="ja">バーレーン</name>
+      <name lang="en">BAHRAIN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">16</code>
+      <code type="jsps">BGD</code>
+      <name lang="ja">バングラデシュ</name>
+      <name lang="en">BANGLADESH</name>
+    </country_name>
+    <country_name>
+      <code type="nii">25</code>
+      <code type="jsps">BRB</code>
+      <name lang="ja">バルバドス</name>
+      <name lang="en">BARBADOS</name>
+    </country_name>
+    <country_name>
+      <code type="nii">21</code>
+      <code type="jsps">BLR</code>
+      <name lang="ja">ベラルーシ</name>
+      <name lang="en">BELARUS</name>
+    </country_name>
+    <country_name>
+      <code type="nii">13</code>
+      <code type="jsps">BEL</code>
+      <name lang="ja">ベルギー</name>
+      <name lang="en">BELGIUM</name>
+    </country_name>
+    <country_name>
+      <code type="nii">22</code>
+      <code type="jsps">BLZ</code>
+      <name lang="ja">ベリーズ</name>
+      <name lang="en">BELIZE</name>
+    </country_name>
+    <country_name>
+      <code type="nii">14</code>
+      <code type="jsps">BEN</code>
+      <name lang="ja">ベナン</name>
+      <name lang="en">BENIN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">27</code>
+      <code type="jsps">BTN</code>
+      <name lang="ja">ブータン</name>
+      <name lang="en">BHUTAN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">23</code>
+      <code type="jsps">BOL</code>
+      <name lang="ja">ボリビア</name>
+      <name lang="en">BOLIVIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">20</code>
+      <code type="jsps">BIH</code>
+      <name lang="ja">ボスニア・ヘルツェゴビナ</name>
+      <name lang="en">BOSNIA AND HERZEGOVINA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">28</code>
+      <code type="jsps">BWA</code>
+      <name lang="ja">ボツワナ</name>
+      <name lang="en">BOTSWANA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">24</code>
+      <code type="jsps">BRA</code>
+      <name lang="ja">ブラジル</name>
+      <name lang="en">BRAZIL</name>
+    </country_name>
+    <country_name>
+      <code type="nii">26</code>
+      <code type="jsps">BRN</code>
+      <name lang="ja">ブルネイ・ダルサラーム</name>
+      <name lang="en">BRUNEI DARUSSALAM</name>
+    </country_name>
+    <country_name>
+      <code type="nii">17</code>
+      <code type="jsps">BGR</code>
+      <name lang="ja">ブルガリア</name>
+      <name lang="en">BULGARIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">15</code>
+      <code type="jsps">BFA</code>
+      <name lang="ja">ブルキナファソ</name>
+      <name lang="en">BURKINA FASO</name>
+    </country_name>
+    <country_name>
+      <code type="nii">12</code>
+      <code type="jsps">BDI</code>
+      <name lang="ja">ブルンジ</name>
+      <name lang="en">BURUNDI</name>
+    </country_name>
+    <country_name>
+      <code type="nii">92</code>
+      <code type="jsps">KHM</code>
+      <name lang="ja">カンボジア</name>
+      <name lang="en">CAMBODIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">35</code>
+      <code type="jsps">CMR</code>
+      <name lang="ja">カメルーン</name>
+      <name lang="en">CAMEROON</name>
+    </country_name>
+    <country_name>
+      <code type="nii">30</code>
+      <code type="jsps">CAN</code>
+      <name lang="ja">カナダ</name>
+      <name lang="en">CANADA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">41</code>
+      <code type="jsps">CPV</code>
+      <name lang="ja">カーボベルデ</name>
+      <name lang="en">CAPE VERDE</name>
+    </country_name>
+    <country_name>
+      <code type="nii">29</code>
+      <code type="jsps">CAF</code>
+      <name lang="ja">中央アフリカ</name>
+      <name lang="en">CENTRAL AFRICAN REP.</name>
+    </country_name>
+    <country_name>
+      <code type="nii">170</code>
+      <code type="jsps">TCD</code>
+      <name lang="ja">チャド</name>
+      <name lang="en">CHAD</name>
+    </country_name>
+    <country_name>
+      <code type="nii">32</code>
+      <code type="jsps">CHL</code>
+      <name lang="ja">チリ</name>
+      <name lang="en">CHILE</name>
+    </country_name>
+    <country_name>
+      <code type="nii">33</code>
+      <code type="jsps">CHN</code>
+      <name lang="ja">中国</name>
+      <name lang="en">CHINA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">39</code>
+      <code type="jsps">COL</code>
+      <name lang="ja">コロンビア</name>
+      <name lang="en">COLOMBIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">48</code>
+      <code type="jsps">DMA</code>
+      <name lang="ja">ドミニカ国</name>
+      <name lang="en">COMMOMWEALTH OF DOMINICA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">40</code>
+      <code type="jsps">COM</code>
+      <name lang="ja">コモロ</name>
+      <name lang="en">COMOROS</name>
+    </country_name>
+    <country_name>
+      <code type="nii">37</code>
+      <code type="jsps">COG</code>
+      <name lang="ja">コンゴ共和国</name>
+      <name lang="en">CONGO</name>
+    </country_name>
+    <country_name>
+      <code type="nii">38</code>
+      <code type="jsps">COK</code>
+      <name lang="ja">クック諸島</name>
+      <name lang="en">COOK ISLANDS</name>
+    </country_name>
+    <country_name>
+      <code type="nii">42</code>
+      <code type="jsps">CRI</code>
+      <name lang="ja">コスタリカ</name>
+      <name lang="en">COSTA RICA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">34</code>
+      <code type="jsps">CIV</code>
+      <name lang="ja">コートジボワール</name>
+      <name lang="en">COTE D'IVOIRE</name>
+    </country_name>
+    <country_name>
+      <code type="nii">75</code>
+      <code type="jsps">HRV</code>
+      <name lang="ja">クロアチア</name>
+      <name lang="en">CROATIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">43</code>
+      <code type="jsps">CUB</code>
+      <name lang="ja">キューバ</name>
+      <name lang="en">CUBA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">44</code>
+      <code type="jsps">CYP</code>
+      <name lang="ja">キプロス</name>
+      <name lang="en">CYPRUS</name>
+    </country_name>
+    <country_name>
+      <code type="nii">45</code>
+      <code type="jsps">CZE</code>
+      <name lang="ja">チェコ</name>
+      <name lang="en">CZECH</name>
+    </country_name>
+    <country_name>
+      <code type="nii">36</code>
+      <code type="jsps">COD</code>
+      <name lang="ja">コンゴ民主共和国</name>
+      <name lang="en">DEM. REP. OF CONGO</name>
+    </country_name>
+    <country_name>
+      <code type="nii">49</code>
+      <code type="jsps">DNK</code>
+      <name lang="ja">デンマーク</name>
+      <name lang="en">DENMARK</name>
+    </country_name>
+    <country_name>
+      <code type="nii">47</code>
+      <code type="jsps">DJI</code>
+      <name lang="ja">ジブチ</name>
+      <name lang="en">DJIBOUTI</name>
+    </country_name>
+    <country_name>
+      <code type="nii">50</code>
+      <code type="jsps">DOM</code>
+      <name lang="ja">ドミニカ共和国</name>
+      <name lang="en">DOMINICAN REPUBLIC</name>
+    </country_name>
+    <country_name>
+      <code type="nii">52</code>
+      <code type="jsps">ECU</code>
+      <name lang="ja">エクアドル</name>
+      <name lang="en">ECUADOR</name>
+    </country_name>
+    <country_name>
+      <code type="nii">53</code>
+      <code type="jsps">EGY</code>
+      <name lang="ja">エジプト</name>
+      <name lang="en">EGYPT</name>
+    </country_name>
+    <country_name>
+      <code type="nii">157</code>
+      <code type="jsps">SLV</code>
+      <name lang="ja">エルサルバドル</name>
+      <name lang="en">EL SALVADOR</name>
+    </country_name>
+    <country_name>
+      <code type="nii">69</code>
+      <code type="jsps">GNQ</code>
+      <name lang="ja">赤道ギニア</name>
+      <name lang="en">EQUATORIAL GUINEA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">54</code>
+      <code type="jsps">ERI</code>
+      <name lang="ja">エリトリア</name>
+      <name lang="en">ERITREA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">56</code>
+      <code type="jsps">EST</code>
+      <name lang="ja">エストニア</name>
+      <name lang="en">ESTONIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">57</code>
+      <code type="jsps">ETH</code>
+      <name lang="ja">エチオピア</name>
+      <name lang="en">ETHIOPIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">59</code>
+      <code type="jsps">FJI</code>
+      <name lang="ja">フィジー</name>
+      <name lang="en">FIJI</name>
+    </country_name>
+    <country_name>
+      <code type="nii">58</code>
+      <code type="jsps">FIN</code>
+      <name lang="ja">フィンランド</name>
+      <name lang="en">FINLAND</name>
+    </country_name>
+    <country_name>
+      <code type="nii">116</code>
+      <code type="jsps">MKD</code>
+      <name lang="ja">マケドニア旧ユーゴスラビア共和国</name>
+      <name lang="en">FORMER YUGOSLAV REPUBLIC OF MACEDONIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">60</code>
+      <code type="jsps">FRA</code>
+      <name lang="ja">フランス</name>
+      <name lang="en">FRANCE</name>
+    </country_name>
+    <country_name>
+      <code type="nii">62</code>
+      <code type="jsps">GAB</code>
+      <name lang="ja">ガボン</name>
+      <name lang="en">GABON</name>
+    </country_name>
+    <country_name>
+      <code type="nii">67</code>
+      <code type="jsps">GMB</code>
+      <name lang="ja">ガンビア</name>
+      <name lang="en">GAMBIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">64</code>
+      <code type="jsps">GEO</code>
+      <name lang="ja">ジョージア</name>
+      <name lang="en">GEORGIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">46</code>
+      <code type="jsps">DEU</code>
+      <name lang="ja">ドイツ</name>
+      <name lang="en">GERMANY</name>
+    </country_name>
+    <country_name>
+      <code type="nii">65</code>
+      <code type="jsps">GHA</code>
+      <name lang="ja">ガーナ</name>
+      <name lang="en">GHANA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">70</code>
+      <code type="jsps">GRC</code>
+      <name lang="ja">ギリシャ</name>
+      <name lang="en">GREECE</name>
+    </country_name>
+    <country_name>
+      <code type="nii">71</code>
+      <code type="jsps">GRD</code>
+      <name lang="ja">グレナダ</name>
+      <name lang="en">GRENADA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">72</code>
+      <code type="jsps">GTM</code>
+      <name lang="ja">グアテマラ</name>
+      <name lang="en">GUATEMALA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">66</code>
+      <code type="jsps">GIN</code>
+      <name lang="ja">ギニア</name>
+      <name lang="en">GUINEA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">68</code>
+      <code type="jsps">GNB</code>
+      <name lang="ja">ギニアビサウ</name>
+      <name lang="en">GUINEA-BISSAU</name>
+    </country_name>
+    <country_name>
+      <code type="nii">73</code>
+      <code type="jsps">GUY</code>
+      <name lang="ja">ガイアナ</name>
+      <name lang="en">GUYANA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">76</code>
+      <code type="jsps">HTI</code>
+      <name lang="ja">ハイチ</name>
+      <name lang="en">HAITI</name>
+    </country_name>
+    <country_name>
+      <code type="nii">74</code>
+      <code type="jsps">HND</code>
+      <name lang="ja">ホンジュラス</name>
+      <name lang="en">HONDURAS</name>
+    </country_name>
+    <country_name>
+      <code type="nii">77</code>
+      <code type="jsps">HUN</code>
+      <name lang="ja">ハンガリー</name>
+      <name lang="en">HUNGARY</name>
+    </country_name>
+    <country_name>
+      <code type="nii">83</code>
+      <code type="jsps">ISL</code>
+      <name lang="ja">アイスランド</name>
+      <name lang="en">ICELAND</name>
+    </country_name>
+    <country_name>
+      <code type="nii">192</code>
+      <code type="jsps">WSM</code>
+      <name lang="ja">サモア</name>
+      <name lang="en">INDEPENDENT STATE OF SAMOA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">79</code>
+      <code type="jsps">IND</code>
+      <name lang="ja">インド</name>
+      <name lang="en">INDIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">78</code>
+      <code type="jsps">IDN</code>
+      <name lang="ja">インドネシア</name>
+      <name lang="en">INDONESIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">81</code>
+      <code type="jsps">IRN</code>
+      <name lang="ja">イラン</name>
+      <name lang="en">IRAN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">82</code>
+      <code type="jsps">IRQ</code>
+      <name lang="ja">イラク</name>
+      <name lang="en">IRAQ</name>
+    </country_name>
+    <country_name>
+      <code type="nii">80</code>
+      <code type="jsps">IRL</code>
+      <name lang="ja">アイルランド</name>
+      <name lang="en">IRELAND</name>
+    </country_name>
+    <country_name>
+      <code type="nii">84</code>
+      <code type="jsps">ISR</code>
+      <name lang="ja">イスラエル</name>
+      <name lang="en">ISRAEL</name>
+    </country_name>
+    <country_name>
+      <code type="nii">85</code>
+      <code type="jsps">ITA</code>
+      <name lang="ja">イタリア</name>
+      <name lang="en">ITALY</name>
+    </country_name>
+    <country_name>
+      <code type="nii">86</code>
+      <code type="jsps">JAM</code>
+      <name lang="ja">ジャマイカ</name>
+      <name lang="en">JAMAICA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">88</code>
+      <code type="jsps">JPN</code>
+      <name lang="ja">日本</name>
+      <name lang="en">JAPAN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">87</code>
+      <code type="jsps">JOR</code>
+      <name lang="ja">ヨルダン</name>
+      <name lang="en">JORDAN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">89</code>
+      <code type="jsps">KAZ</code>
+      <name lang="ja">カザフスタン</name>
+      <name lang="en">KAZAKHSTAN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">90</code>
+      <code type="jsps">KEN</code>
+      <name lang="ja">ケニア</name>
+      <name lang="en">KENYA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">93</code>
+      <code type="jsps">KIR</code>
+      <name lang="ja">キリバス</name>
+      <name lang="en">KIRIBATI</name>
+    </country_name>
+    <country_name>
+      <code type="nii">95</code>
+      <code type="jsps">KOR</code>
+      <name lang="ja">韓国</name>
+      <name lang="en">KOREA (REP. OF KOREA)</name>
+    </country_name>
+    <country_name>
+      <code type="nii">96</code>
+      <code type="jsps">KSV</code>
+      <name lang="ja">コソボ</name>
+      <name lang="en">KOSOVO</name>
+    </country_name>
+    <country_name>
+      <code type="nii">97</code>
+      <code type="jsps">KWT</code>
+      <name lang="ja">クウェート</name>
+      <name lang="en">KUWAIT</name>
+    </country_name>
+    <country_name>
+      <code type="nii">91</code>
+      <code type="jsps">KGZ</code>
+      <name lang="ja">キルギス</name>
+      <name lang="en">KYRGYZSTAN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">98</code>
+      <code type="jsps">LAO</code>
+      <name lang="ja">ラオス</name>
+      <name lang="en">LAOS</name>
+    </country_name>
+    <country_name>
+      <code type="nii">108</code>
+      <code type="jsps">LVA</code>
+      <name lang="ja">ラトビア</name>
+      <name lang="en">LATVIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">99</code>
+      <code type="jsps">LBN</code>
+      <name lang="ja">レバノン</name>
+      <name lang="en">LEBANON</name>
+    </country_name>
+    <country_name>
+      <code type="nii">105</code>
+      <code type="jsps">LSO</code>
+      <name lang="ja">レソト</name>
+      <name lang="en">LESOTHO</name>
+    </country_name>
+    <country_name>
+      <code type="nii">100</code>
+      <code type="jsps">LBR</code>
+      <name lang="ja">リベリア</name>
+      <name lang="en">LIBERIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">101</code>
+      <code type="jsps">LBY</code>
+      <name lang="ja">リビア</name>
+      <name lang="en">LIBYA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">103</code>
+      <code type="jsps">LIE</code>
+      <name lang="ja">リヒテンシュタイン</name>
+      <name lang="en">LIECHTENSTEIN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">106</code>
+      <code type="jsps">LTU</code>
+      <name lang="ja">リトアニア</name>
+      <name lang="en">LITHUANIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">107</code>
+      <code type="jsps">LUX</code>
+      <name lang="ja">ルクセンブルク</name>
+      <name lang="en">LUXEMBOURG</name>
+    </country_name>
+    <country_name>
+      <code type="nii">112</code>
+      <code type="jsps">MDG</code>
+      <name lang="ja">マダガスカル</name>
+      <name lang="en">MADAGASCAR</name>
+    </country_name>
+    <country_name>
+      <code type="nii">125</code>
+      <code type="jsps">MWI</code>
+      <name lang="ja">マラウイ</name>
+      <name lang="en">MALAWI</name>
+    </country_name>
+    <country_name>
+      <code type="nii">126</code>
+      <code type="jsps">MYS</code>
+      <name lang="ja">マレーシア</name>
+      <name lang="en">MALAYSIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">113</code>
+      <code type="jsps">MDV</code>
+      <name lang="ja">モルディブ</name>
+      <name lang="en">MALDIVES</name>
+    </country_name>
+    <country_name>
+      <code type="nii">117</code>
+      <code type="jsps">MLI</code>
+      <name lang="ja">マリ</name>
+      <name lang="en">MALI</name>
+    </country_name>
+    <country_name>
+      <code type="nii">118</code>
+      <code type="jsps">MLT</code>
+      <name lang="ja">マルタ</name>
+      <name lang="en">MALTA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">123</code>
+      <code type="jsps">MRT</code>
+      <name lang="ja">モーリタニア</name>
+      <name lang="en">MAURITANIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">124</code>
+      <code type="jsps">MUS</code>
+      <name lang="ja">モーリシャス</name>
+      <name lang="en">MAURITIUS</name>
+    </country_name>
+    <country_name>
+      <code type="nii">114</code>
+      <code type="jsps">MEX</code>
+      <name lang="ja">メキシコ</name>
+      <name lang="en">MEXICO</name>
+    </country_name>
+    <country_name>
+      <code type="nii">61</code>
+      <code type="jsps">FSM</code>
+      <name lang="ja">ミクロネシア</name>
+      <name lang="en">MICRONESIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">111</code>
+      <code type="jsps">MDA</code>
+      <name lang="ja">モルドバ</name>
+      <name lang="en">MOLDOVA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">110</code>
+      <code type="jsps">MCO</code>
+      <name lang="ja">モナコ</name>
+      <name lang="en">MONACO</name>
+    </country_name>
+    <country_name>
+      <code type="nii">121</code>
+      <code type="jsps">MNG</code>
+      <name lang="ja">モンゴル</name>
+      <name lang="en">MONGOLIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">120</code>
+      <code type="jsps">MNE</code>
+      <name lang="ja">モンテネグロ</name>
+      <name lang="en">MONTENEGRO</name>
+    </country_name>
+    <country_name>
+      <code type="nii">109</code>
+      <code type="jsps">MAR</code>
+      <name lang="ja">モロッコ</name>
+      <name lang="en">MOROCCO</name>
+    </country_name>
+    <country_name>
+      <code type="nii">122</code>
+      <code type="jsps">MOZ</code>
+      <name lang="ja">モザンビーク</name>
+      <name lang="en">MOZAMBIQUE</name>
+    </country_name>
+    <country_name>
+      <code type="nii">119</code>
+      <code type="jsps">MMR</code>
+      <name lang="ja">ミャンマー</name>
+      <name lang="en">MYANMAR</name>
+    </country_name>
+    <country_name>
+      <code type="nii">127</code>
+      <code type="jsps">NAM</code>
+      <name lang="ja">ナミビア</name>
+      <name lang="en">NAMIBIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">134</code>
+      <code type="jsps">NRU</code>
+      <name lang="ja">ナウル</name>
+      <name lang="en">NAURU</name>
+    </country_name>
+    <country_name>
+      <code type="nii">133</code>
+      <code type="jsps">NPL</code>
+      <name lang="ja">ネパール</name>
+      <name lang="en">NEPAL</name>
+    </country_name>
+    <country_name>
+      <code type="nii">131</code>
+      <code type="jsps">NLD</code>
+      <name lang="ja">オランダ</name>
+      <name lang="en">NETHERLANDS</name>
+    </country_name>
+    <country_name>
+      <code type="nii">135</code>
+      <code type="jsps">NZL</code>
+      <name lang="ja">ニュージーランド</name>
+      <name lang="en">NEW ZEALAND</name>
+    </country_name>
+    <country_name>
+      <code type="nii">130</code>
+      <code type="jsps">NIC</code>
+      <name lang="ja">ニカラグア</name>
+      <name lang="en">NICARAGUA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">128</code>
+      <code type="jsps">NER</code>
+      <name lang="ja">ニジェール</name>
+      <name lang="en">NIGER</name>
+    </country_name>
+    <country_name>
+      <code type="nii">129</code>
+      <code type="jsps">NGA</code>
+      <name lang="ja">ナイジェリア</name>
+      <name lang="en">NIGERIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">132</code>
+      <code type="jsps">NOR</code>
+      <name lang="ja">ノルウェー</name>
+      <name lang="en">NORWAY</name>
+    </country_name>
+    <country_name>
+      <code type="nii">136</code>
+      <code type="jsps">OMN</code>
+      <name lang="ja">オマーン</name>
+      <name lang="en">OMAN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">137</code>
+      <code type="jsps">PAK</code>
+      <name lang="ja">パキスタン</name>
+      <name lang="en">PAKISTAN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">141</code>
+      <code type="jsps">PLW</code>
+      <name lang="ja">パラオ</name>
+      <name lang="en">PALAU</name>
+    </country_name>
+    <country_name>
+      <code type="nii">146</code>
+      <code type="jsps">PSE</code>
+      <name lang="ja">パレスチナ(PLO)</name>
+      <name lang="en">PALESTINE LIBERATION ORGANIZATION</name>
+    </country_name>
+    <country_name>
+      <code type="nii">138</code>
+      <code type="jsps">PAN</code>
+      <name lang="ja">パナマ</name>
+      <name lang="en">PANAMA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">142</code>
+      <code type="jsps">PNG</code>
+      <name lang="ja">パプアニューギニア</name>
+      <name lang="en">PAPUA NEW GUINEA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">145</code>
+      <code type="jsps">PRY</code>
+      <name lang="ja">パラグアイ</name>
+      <name lang="en">PARAGUAY</name>
+    </country_name>
+    <country_name>
+      <code type="nii">139</code>
+      <code type="jsps">PER</code>
+      <name lang="ja">ペルー</name>
+      <name lang="en">PERU</name>
+    </country_name>
+    <country_name>
+      <code type="nii">140</code>
+      <code type="jsps">PHL</code>
+      <name lang="ja">フィリピン</name>
+      <name lang="en">PHILIPPINES</name>
+    </country_name>
+    <country_name>
+      <code type="nii">143</code>
+      <code type="jsps">POL</code>
+      <name lang="ja">ポーランド</name>
+      <name lang="en">POLAND</name>
+    </country_name>
+    <country_name>
+      <code type="nii">144</code>
+      <code type="jsps">PRT</code>
+      <name lang="ja">ポルトガル</name>
+      <name lang="en">PORTUGAL</name>
+    </country_name>
+    <country_name>
+      <code type="nii">147</code>
+      <code type="jsps">QAT</code>
+      <name lang="ja">カタール</name>
+      <name lang="en">QATAR</name>
+    </country_name>
+    <country_name>
+      <code type="nii">115</code>
+      <code type="jsps">MHL</code>
+      <name lang="ja">マーシャル</name>
+      <name lang="en">REP. OF THE MARSHALL IS.</name>
+    </country_name>
+    <country_name>
+      <code type="nii">148</code>
+      <code type="jsps">ROU</code>
+      <name lang="ja">ルーマニア</name>
+      <name lang="en">ROMANIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">149</code>
+      <code type="jsps">RUS</code>
+      <name lang="ja">ロシア連邦</name>
+      <name lang="en">RUSSIA FEDERATION</name>
+    </country_name>
+    <country_name>
+      <code type="nii">150</code>
+      <code type="jsps">RWA</code>
+      <name lang="ja">ルワンダ</name>
+      <name lang="en">RWANDA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">158</code>
+      <code type="jsps">SMR</code>
+      <name lang="ja">サンマリノ</name>
+      <name lang="en">SAN MARINO</name>
+    </country_name>
+    <country_name>
+      <code type="nii">162</code>
+      <code type="jsps">STP</code>
+      <name lang="ja">サントメ・プリンシペ</name>
+      <name lang="en">SAO TOME &amp; PRINCIPE</name>
+    </country_name>
+    <country_name>
+      <code type="nii">151</code>
+      <code type="jsps">SAU</code>
+      <name lang="ja">サウジアラビア</name>
+      <name lang="en">SAUDI ARABIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">153</code>
+      <code type="jsps">SEN</code>
+      <name lang="ja">セネガル</name>
+      <name lang="en">SENEGAL</name>
+    </country_name>
+    <country_name>
+      <code type="nii">160</code>
+      <code type="jsps">SRB</code>
+      <name lang="ja">セルビア</name>
+      <name lang="en">SERBIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">168</code>
+      <code type="jsps">SYC</code>
+      <name lang="ja">セーシェル</name>
+      <name lang="en">SEYCHELLES</name>
+    </country_name>
+    <country_name>
+      <code type="nii">156</code>
+      <code type="jsps">SLE</code>
+      <name lang="ja">シエラレオネ</name>
+      <name lang="en">SIERRA LEONE</name>
+    </country_name>
+    <country_name>
+      <code type="nii">154</code>
+      <code type="jsps">SGP</code>
+      <name lang="ja">シンガポール</name>
+      <name lang="en">SINGAPORE</name>
+    </country_name>
+    <country_name>
+      <code type="nii">164</code>
+      <code type="jsps">SVK</code>
+      <name lang="ja">スロバキア</name>
+      <name lang="en">SLOVAKIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">165</code>
+      <code type="jsps">SVN</code>
+      <name lang="ja">スロベニア</name>
+      <name lang="en">SLOVENIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">155</code>
+      <code type="jsps">SLB</code>
+      <name lang="ja">ソロモン</name>
+      <name lang="en">SOLOMON ISLANDS</name>
+    </country_name>
+    <country_name>
+      <code type="nii">159</code>
+      <code type="jsps">SOM</code>
+      <name lang="ja">ソマリア</name>
+      <name lang="en">SOMALIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">194</code>
+      <code type="jsps">ZAF</code>
+      <name lang="ja">南アフリカ</name>
+      <name lang="en">SOUTH AFRICA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">161</code>
+      <code type="jsps">SSD</code>
+      <name lang="ja">南スーダン</name>
+      <name lang="en">SOUTH SUDAN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">55</code>
+      <code type="jsps">ESP</code>
+      <name lang="ja">スペイン</name>
+      <name lang="en">SPAIN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">104</code>
+      <code type="jsps">LKA</code>
+      <name lang="ja">スリランカ</name>
+      <name lang="en">SRI LANKA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">94</code>
+      <code type="jsps">KNA</code>
+      <name lang="ja">セントクリストファー・ネービス</name>
+      <name lang="en">ST. CHRISTOPHER &amp; NEVIS</name>
+    </country_name>
+    <country_name>
+      <code type="nii">102</code>
+      <code type="jsps">LCA</code>
+      <name lang="ja">セントルシア</name>
+      <name lang="en">ST. LUCIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">188</code>
+      <code type="jsps">VCT</code>
+      <name lang="ja">セントビンセント・グレナディーン諸島</name>
+      <name lang="en">ST. VINCENT &amp; THE GRENADINES</name>
+    </country_name>
+    <country_name>
+      <code type="nii">152</code>
+      <code type="jsps">SDN</code>
+      <name lang="ja">スーダン</name>
+      <name lang="en">SUDAN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">163</code>
+      <code type="jsps">SUR</code>
+      <name lang="ja">スリナム</name>
+      <name lang="en">SURINAME</name>
+    </country_name>
+    <country_name>
+      <code type="nii">167</code>
+      <code type="jsps">SWZ</code>
+      <name lang="ja">スワジランド</name>
+      <name lang="en">SWAZILAND</name>
+    </country_name>
+    <country_name>
+      <code type="nii">166</code>
+      <code type="jsps">SWE</code>
+      <name lang="ja">スウェーデン</name>
+      <name lang="en">SWEDEN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">31</code>
+      <code type="jsps">CHE</code>
+      <name lang="ja">スイス</name>
+      <name lang="en">SWITZERLAND</name>
+    </country_name>
+    <country_name>
+      <code type="nii">169</code>
+      <code type="jsps">SYR</code>
+      <name lang="ja">シリア</name>
+      <name lang="en">SYRIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">173</code>
+      <code type="jsps">TJK</code>
+      <name lang="ja">タジキスタン</name>
+      <name lang="en">TADZHIKISTAN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">181</code>
+      <code type="jsps">TZA</code>
+      <name lang="ja">タンザニア</name>
+      <name lang="en">TANZANIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">172</code>
+      <code type="jsps">THA</code>
+      <name lang="ja">タイ</name>
+      <name lang="en">THAILAND</name>
+    </country_name>
+    <country_name>
+      <code type="nii">175</code>
+      <code type="jsps">TLS</code>
+      <name lang="ja">東ティモール</name>
+      <name lang="en">TIMOR-LESTE</name>
+    </country_name>
+    <country_name>
+      <code type="nii">171</code>
+      <code type="jsps">TGO</code>
+      <name lang="ja">トーゴ</name>
+      <name lang="en">TOGO</name>
+    </country_name>
+    <country_name>
+      <code type="nii">176</code>
+      <code type="jsps">TON</code>
+      <name lang="ja">トンガ</name>
+      <name lang="en">TONGA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">177</code>
+      <code type="jsps">TTO</code>
+      <name lang="ja">トリニダード・トバゴ</name>
+      <name lang="en">TRINIDAD &amp; TOBAGO</name>
+    </country_name>
+    <country_name>
+      <code type="nii">178</code>
+      <code type="jsps">TUN</code>
+      <name lang="ja">チュニジア</name>
+      <name lang="en">TUNISIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">179</code>
+      <code type="jsps">TUR</code>
+      <name lang="ja">トルコ</name>
+      <name lang="en">TURKEY</name>
+    </country_name>
+    <country_name>
+      <code type="nii">174</code>
+      <code type="jsps">TKM</code>
+      <name lang="ja">トルクメニスタン</name>
+      <name lang="en">TURKMENISTAN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">180</code>
+      <code type="jsps">TUV</code>
+      <name lang="ja">ツバル</name>
+      <name lang="en">TUVALU</name>
+    </country_name>
+    <country_name>
+      <code type="nii">185</code>
+      <code type="jsps">USA</code>
+      <name lang="ja">米国</name>
+      <name lang="en">U.S.A.</name>
+    </country_name>
+    <country_name>
+      <code type="nii">182</code>
+      <code type="jsps">UGA</code>
+      <name lang="ja">ウガンダ</name>
+      <name lang="en">UGANDA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">183</code>
+      <code type="jsps">UKR</code>
+      <name lang="ja">ウクライナ</name>
+      <name lang="en">UKRAINE</name>
+    </country_name>
+    <country_name>
+      <code type="nii">5</code>
+      <code type="jsps">ARE</code>
+      <name lang="ja">アラブ首長国連邦</name>
+      <name lang="en">UNITED ARAB EMIRATES</name>
+    </country_name>
+    <country_name>
+      <code type="nii">63</code>
+      <code type="jsps">GBR</code>
+      <name lang="ja">英国</name>
+      <name lang="en">UNITED KINGDOM</name>
+    </country_name>
+    <country_name>
+      <code type="nii">184</code>
+      <code type="jsps">URY</code>
+      <name lang="ja">ウルグアイ</name>
+      <name lang="en">URUGUAY</name>
+    </country_name>
+    <country_name>
+      <code type="nii">186</code>
+      <code type="jsps">UZB</code>
+      <name lang="ja">ウズベキスタン</name>
+      <name lang="en">UZBEKISTAN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">191</code>
+      <code type="jsps">VUT</code>
+      <name lang="ja">バヌアツ</name>
+      <name lang="en">VANUATU</name>
+    </country_name>
+    <country_name>
+      <code type="nii">187</code>
+      <code type="jsps">VAT</code>
+      <name lang="ja">バチカン</name>
+      <name lang="en">VATICAN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">189</code>
+      <code type="jsps">VEN</code>
+      <name lang="ja">ベネズエラ</name>
+      <name lang="en">VENEZUELA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">190</code>
+      <code type="jsps">VNM</code>
+      <name lang="ja">ベトナム</name>
+      <name lang="en">VIET NAM</name>
+    </country_name>
+    <country_name>
+      <code type="nii">193</code>
+      <code type="jsps">YEM</code>
+      <name lang="ja">イエメン</name>
+      <name lang="en">YEMEN</name>
+    </country_name>
+    <country_name>
+      <code type="nii">195</code>
+      <code type="jsps">ZMB</code>
+      <name lang="ja">ザンビア</name>
+      <name lang="en">ZAMBIA</name>
+    </country_name>
+    <country_name>
+      <code type="nii">196</code>
+      <code type="jsps">ZWE</code>
+      <name lang="ja">ジンバブエ</name>
+      <name lang="en">ZIMBABWE</name>
+    </country_name>
+    <country_name>
+      <code type="nii">197</code>
+      <code type="jsps">ZZZ</code>
+      <name lang="ja">その他の国・地域</name>
+      <name lang="en">その他の国・地域</name>
+    </country_name>
+  </country_name_table>
+  <difference_list>
+    <country_name name="アフガニスタン" nii_code="1">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="アルバニア" nii_code="3">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="アルジェリア" nii_code="51">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="アンドラ" nii_code="4">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="アンゴラ" nii_code="2">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="アンティグア・バーブーダ" nii_code="8">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="アルゼンチン" nii_code="6">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="アルメニア" nii_code="7">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="オーストラリア" nii_code="9">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="オーストリア" nii_code="10">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="アゼルバイジャン" nii_code="11">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="バハマ" nii_code="19">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="バーレーン" nii_code="18">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="バングラデシュ" nii_code="16">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="バルバドス" nii_code="25">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ベラルーシ" nii_code="21">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ベルギー" nii_code="13">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ベリーズ" nii_code="22">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ベナン" nii_code="14">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ブータン" nii_code="27">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ボリビア" nii_code="23">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ボスニア・ヘルツェゴビナ" nii_code="20">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ボツワナ" nii_code="28">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ブラジル" nii_code="24">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ブルネイ・ダルサラーム" nii_code="26">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ブルガリア" nii_code="17">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ブルキナファソ" nii_code="15">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ブルンジ" nii_code="12">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="カンボジア" nii_code="92">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="カメルーン" nii_code="35">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="カナダ" nii_code="30">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="カーボベルデ" nii_code="41">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="中央アフリカ" nii_code="29">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="チャド" nii_code="170">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="チリ" nii_code="32">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="中国" nii_code="33">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="コロンビア" nii_code="39">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ドミニカ国" nii_code="48">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="コモロ" nii_code="40">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="コンゴ共和国" nii_code="37">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="クック諸島" nii_code="38">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="コスタリカ" nii_code="42">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="コートジボワール" nii_code="34">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="クロアチア" nii_code="75">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="キューバ" nii_code="43">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="キプロス" nii_code="44">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="チェコ" nii_code="45">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="コンゴ民主共和国" nii_code="36">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="デンマーク" nii_code="49">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ジブチ" nii_code="47">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ドミニカ共和国" nii_code="50">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="エクアドル" nii_code="52">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="エジプト" nii_code="53">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="エルサルバドル" nii_code="157">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="赤道ギニア" nii_code="69">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="エリトリア" nii_code="54">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="エストニア" nii_code="56">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="エチオピア" nii_code="57">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="フィジー" nii_code="59">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="フィンランド" nii_code="58">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="マケドニア旧ユーゴスラビア共和国" nii_code="116">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="フランス" nii_code="60">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ガボン" nii_code="62">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ガンビア" nii_code="67">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ジョージア" nii_code="64">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ドイツ" nii_code="46">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ガーナ" nii_code="65">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ギリシャ" nii_code="70">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="グレナダ" nii_code="71">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="グアテマラ" nii_code="72">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ギニア" nii_code="66">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ギニアビサウ" nii_code="68">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ガイアナ" nii_code="73">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ハイチ" nii_code="76">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ホンジュラス" nii_code="74">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ハンガリー" nii_code="77">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="アイスランド" nii_code="83">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="サモア" nii_code="192">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="インド" nii_code="79">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="インドネシア" nii_code="78">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="イラン" nii_code="81">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="イラク" nii_code="82">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="アイルランド" nii_code="80">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="イスラエル" nii_code="84">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="イタリア" nii_code="85">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ジャマイカ" nii_code="86">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="日本" nii_code="88">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ヨルダン" nii_code="87">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="カザフスタン" nii_code="89">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ケニア" nii_code="90">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="キリバス" nii_code="93">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="韓国" nii_code="95">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="コソボ" nii_code="96">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="クウェート" nii_code="97">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="キルギス" nii_code="91">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ラオス" nii_code="98">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ラトビア" nii_code="108">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="レバノン" nii_code="99">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="レソト" nii_code="105">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="リベリア" nii_code="100">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="リビア" nii_code="101">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="リヒテンシュタイン" nii_code="103">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="リトアニア" nii_code="106">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ルクセンブルク" nii_code="107">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="マダガスカル" nii_code="112">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="マラウイ" nii_code="125">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="マレーシア" nii_code="126">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="モルディブ" nii_code="113">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="マリ" nii_code="117">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="マルタ" nii_code="118">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="モーリタニア" nii_code="123">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="モーリシャス" nii_code="124">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="メキシコ" nii_code="114">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ミクロネシア" nii_code="61">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="モルドバ" nii_code="111">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="モナコ" nii_code="110">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="モンゴル" nii_code="121">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="モンテネグロ" nii_code="120">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="モロッコ" nii_code="109">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="モザンビーク" nii_code="122">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ミャンマー" nii_code="119">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ナミビア" nii_code="127">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ナウル" nii_code="134">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ネパール" nii_code="133">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="オランダ" nii_code="131">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ニュージーランド" nii_code="135">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ニカラグア" nii_code="130">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ニジェール" nii_code="128">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ナイジェリア" nii_code="129">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ノルウェー" nii_code="132">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="オマーン" nii_code="136">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="パキスタン" nii_code="137">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="パラオ" nii_code="141">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="パレスチナ(PLO)" nii_code="146">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="パナマ" nii_code="138">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="パプアニューギニア" nii_code="142">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="パラグアイ" nii_code="145">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ペルー" nii_code="139">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="フィリピン" nii_code="140">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ポーランド" nii_code="143">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ポルトガル" nii_code="144">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="カタール" nii_code="147">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="マーシャル" nii_code="115">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ルーマニア" nii_code="148">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ロシア連邦" nii_code="149">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ルワンダ" nii_code="150">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="サンマリノ" nii_code="158">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="サントメ・プリンシペ" nii_code="162">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="サウジアラビア" nii_code="151">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="セネガル" nii_code="153">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="セルビア" nii_code="160">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="セーシェル" nii_code="168">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="シエラレオネ" nii_code="156">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="シンガポール" nii_code="154">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="スロバキア" nii_code="164">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="スロベニア" nii_code="165">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ソロモン" nii_code="155">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ソマリア" nii_code="159">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="南アフリカ" nii_code="194">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="南スーダン" nii_code="161">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="スペイン" nii_code="55">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="スリランカ" nii_code="104">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="セントクリストファー・ネービス" nii_code="94">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="セントルシア" nii_code="102">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="セントビンセント・グレナディーン諸島" nii_code="188">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="スーダン" nii_code="152">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="スリナム" nii_code="163">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="スワジランド" nii_code="167">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="スウェーデン" nii_code="166">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="スイス" nii_code="31">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="シリア" nii_code="169">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="タジキスタン" nii_code="173">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="タンザニア" nii_code="181">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="タイ" nii_code="172">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="東ティモール" nii_code="175">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="トーゴ" nii_code="171">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="トンガ" nii_code="176">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="トリニダード・トバゴ" nii_code="177">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="チュニジア" nii_code="178">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="トルコ" nii_code="179">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="トルクメニスタン" nii_code="174">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ツバル" nii_code="180">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="米国" nii_code="185">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ウガンダ" nii_code="182">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ウクライナ" nii_code="183">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="アラブ首長国連邦" nii_code="5">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="英国" nii_code="63">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ウルグアイ" nii_code="184">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ウズベキスタン" nii_code="186">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="バヌアツ" nii_code="191">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="バチカン" nii_code="187">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ベネズエラ" nii_code="189">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ベトナム" nii_code="190">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="イエメン" nii_code="193">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ザンビア" nii_code="195">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="ジンバブエ" nii_code="196">
+      <established date="1965-04-01"/>
+    </country_name>
+    <country_name name="その他の国・地域" nii_code="197">
+      <established date="1965-04-01"/>
+    </country_name>
+  </difference_list>
+</country_name_table_list>

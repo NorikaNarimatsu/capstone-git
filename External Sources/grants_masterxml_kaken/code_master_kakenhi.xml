@@ -1,0 +1,1024 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<codeList>
+  <codeTable recordSet="kakenhi">
+    <code key="acknowledgementFlag">
+      <name xml:lang="ja">謝辞の記載があるかどうか</name>
+      <name xml:lang="en">Acknowledgement Compliant</name>
+      <valueCode key="false" sequence="1">
+        <name xml:lang="ja">謝辞記載なし</name>
+        <name xml:lang="en">No Acknowledgement</name>
+      </valueCode>
+      <valueCode key="true" sequence="2">
+        <name xml:lang="ja">謝辞記載あり</name>
+        <name xml:lang="en">Acknowledgement Compliant</name>
+      </valueCode>
+    </code>
+    <code key="assessmentStatusCode">
+      <name xml:lang="ja">評価結果 (区分)</name>
+      <name xml:lang="en">Result (Rating)</name>
+      <valueCode key="A+" sequence="1">
+        <name xml:lang="ja">当初目標を超える研究の進捗があり、期待以上の成果が見込まれる</name>
+        <name xml:lang="en">Progress in the research exceeds the initial goal.  More than expected research results are expected. </name>
+      </valueCode>
+      <valueCode key="A" sequence="2">
+        <name xml:lang="ja">当初目標に向けて順調に研究が進展しており、期待どおりの成果が見込まれる</name>
+        <name xml:lang="en">Progress in the research is steadily towards the initial goal.  Expected research results are expected.</name>
+      </valueCode>
+      <valueCode key="A-" sequence="3">
+        <name xml:lang="ja">当初目標に向けて概ね順調に研究が進展しており、一定の成果が見込まれるが、一部に遅れ等が認められるため、今後努力が必要である</name>
+        <name xml:lang="en">Progress in the research is steadily towards the initial goal.  However, further efforts are necessary as a part of the research progress is delayed.</name>
+      </valueCode>
+      <valueCode key="B" sequence="4">
+        <name xml:lang="ja">当初目標に対して研究が遅れており、今後一層の努力が必要である</name>
+        <name xml:lang="en">Progress in the research is delayed than the initial goal.  Further efforts are necessary.</name>
+      </valueCode>
+      <valueCode key="C" sequence="5">
+        <name xml:lang="ja">当初目標より研究が遅れ、研究成果が見込まれないため、研究経費の減額又は研究の中止が適当である</name>
+        <name xml:lang="en">There is no prospect of the research result as progress in the research is delayed than the initial goal. A reduction of the research budget or cancellation of the research should be implemented.</name>
+      </valueCode>
+    </code>
+    <code key="classificationType">
+      <name xml:lang="ja">分類種別</name>
+      <name xml:lang="en">Classification Type</name>
+      <valueCode key="progress" sequence="1">
+        <name xml:lang="ja">現在までの達成度 (区分)</name>
+        <name xml:lang="en">Current Status of Research Progress</name>
+      </valueCode>
+      <valueCode key="remark_chukan" sequence="2">
+        <name xml:lang="ja">中間評価所見</name>
+        <name xml:lang="en">Comments (Interim Assessment)</name>
+      </valueCode>
+      <valueCode key="remark_jigo" sequence="3">
+        <name xml:lang="ja">事後評価所見</name>
+        <name xml:lang="en">Comments (Ex-post Assessment)</name>
+      </valueCode>
+      <valueCode key="assessment" sequence="4">
+        <name xml:lang="ja">評価結果</name>
+        <name xml:lang="en">Assessment Results</name>
+      </valueCode>
+      <valueCode key="inspection" sequence="5">
+        <name xml:lang="ja">検証結果</name>
+        <name xml:lang="en">Verification Results</name>
+      </valueCode>
+    </code>
+    <code key="codeType">
+      <name xml:lang="ja">コード種別</name>
+      <name xml:lang="en">Code Type</name>
+      <valueCode key="mext" sequence="1">
+        <name xml:lang="ja">文科省コード</name>
+        <name xml:lang="en">MEXT Code</name>
+      </valueCode>
+      <valueCode key="jsps" sequence="2">
+        <name xml:lang="ja">学振コード</name>
+        <name xml:lang="en">JSPS Code</name>
+      </valueCode>
+      <valueCode key="nii" sequence="3">
+        <name xml:lang="ja">NII コード</name>
+        <name xml:lang="en">NII Code</name>
+      </valueCode>
+      <valueCode key="erad" sequence="4">
+        <name xml:lang="ja">e-Rad コード</name>
+        <name xml:lang="en">e-Rad Code</name>
+      </valueCode>
+    </code>
+    <code key="continuedFlag">
+      <name xml:lang="ja">新規・継続区分</name>
+      <name xml:lang="en">Continued</name>
+      <valueCode key="false" sequence="1">
+        <name xml:lang="ja">新規</name>
+        <name xml:lang="en">New</name>
+      </valueCode>
+      <valueCode key="true" sequence="2">
+        <name xml:lang="ja">継続</name>
+        <name xml:lang="en">Continued</name>
+      </valueCode>
+    </code>
+    <code key="endDateEstimatedFlag">
+      <name xml:lang="ja">終了年月日予定フラグ</name>
+      <name xml:lang="en">Estimated</name>
+      <valueCode key="false" sequence="1">
+        <name xml:lang="ja">確定</name>
+        <name xml:lang="en">Fixed</name>
+      </valueCode>
+      <valueCode key="true" sequence="2">
+        <name xml:lang="ja">予定</name>
+        <name xml:lang="en">Estimated</name>
+      </valueCode>
+    </code>
+    <code key="endDateNondisclosureFlag">
+      <name xml:lang="ja">終了年月日非開示フラグ</name>
+      <name xml:lang="en">終了年月日非開示フラグ</name>
+      <valueCode key="false" sequence="1">
+        <name xml:lang="ja">開示</name>
+        <name xml:lang="en">開示</name>
+      </valueCode>
+      <valueCode key="true" sequence="2">
+        <name xml:lang="ja">非開示</name>
+        <name xml:lang="en">非開示</name>
+      </valueCode>
+    </code>
+    <code key="endFiscalYearEstimatedFlag">
+      <name xml:lang="ja">終了年度予定フラグ</name>
+      <name xml:lang="en">Estimated</name>
+      <valueCode key="false" sequence="1">
+        <name xml:lang="ja">確定</name>
+        <name xml:lang="en">Fixed</name>
+      </valueCode>
+      <valueCode key="true" sequence="2">
+        <name xml:lang="ja">予定</name>
+        <name xml:lang="en">Estimated</name>
+      </valueCode>
+    </code>
+    <code key="endFiscalYearNondisclosureFlag">
+      <name xml:lang="ja">終了年度非開示フラグ</name>
+      <name xml:lang="en">終了年度非開示フラグ</name>
+      <valueCode key="false" sequence="1">
+        <name xml:lang="ja">開示</name>
+        <name xml:lang="en">開示</name>
+      </valueCode>
+      <valueCode key="true" sequence="2">
+        <name xml:lang="ja">非開示</name>
+        <name xml:lang="en">非開示</name>
+      </valueCode>
+    </code>
+    <code key="fieldTable">
+      <name xml:lang="ja">研究分野表タイプ</name>
+      <name xml:lang="en">Field Table Type</name>
+      <valueCode key="saimoku" sequence="1">
+        <name xml:lang="ja">系・分野・分科・細目表</name>
+        <name xml:lang="en">List of Categories, Areas, Disciplines and Research Fields</name>
+      </valueCode>
+      <valueCode key="jigentsuki_saimoku" sequence="2">
+        <name xml:lang="ja">時限付細目表</name>
+        <name xml:lang="en">Research Fields with a Time Limit（時限付細目/NII）
+Disciplines and Research Fields with a Time Limit（時限付き分科細目/JSPS）</name>
+      </valueCode>
+      <valueCode key="tokusetsu_bunya" sequence="3">
+        <name xml:lang="ja">特設分野</name>
+        <name xml:lang="en">Focused Research Fields</name>
+      </valueCode>
+      <valueCode key="kenkyu_ryoiki" sequence="4">
+        <name xml:lang="ja">研究領域表</name>
+        <name xml:lang="en">Research Areas</name>
+      </valueCode>
+      <valueCode key="senmon_bunya" sequence="5">
+        <name xml:lang="ja">専門分野表</name>
+        <name xml:lang="en">Specialized Research Fields</name>
+      </valueCode>
+      <valueCode key="tokubetsu_kenkyu" sequence="6">
+        <name xml:lang="ja">特別研究員</name>
+        <name xml:lang="en">特別研究員</name>
+      </valueCode>
+      <valueCode key="zantei_bunya" sequence="7">
+        <name xml:lang="ja">挑戦的研究 暫定総合審査希望分野</name>
+        <name xml:lang="en">The area of research for the screening</name>
+      </valueCode>
+    </code>
+    <code key="foreignFlag">
+      <name xml:lang="ja">雑誌論文または産業財産権の国内・国外の別</name>
+      <name xml:lang="en">Published in Japan/Overseas</name>
+      <valueCode key="false" sequence="1">
+        <name xml:lang="ja">国内</name>
+        <name xml:lang="en">Japan</name>
+      </valueCode>
+      <valueCode key="true" sequence="2">
+        <name xml:lang="ja">外国</name>
+        <name xml:lang="en">Overseas</name>
+      </valueCode>
+    </code>
+    <code key="identifierType">
+      <name xml:lang="ja">識別子種別</name>
+      <name xml:lang="en">Identifier Type</name>
+      <valueCode key="doi" sequence="1">
+        <name xml:lang="ja">DOI</name>
+        <name xml:lang="en">DOI</name>
+      </valueCode>
+      <valueCode key="pmid" sequence="2">
+        <name xml:lang="ja">PMID</name>
+        <name xml:lang="en">PMID</name>
+      </valueCode>
+      <valueCode key="issn" sequence="3">
+        <name xml:lang="ja">ISSN</name>
+        <name xml:lang="en">ISSN</name>
+      </valueCode>
+      <valueCode key="isbn" sequence="4">
+        <name xml:lang="ja">ISBN</name>
+        <name xml:lang="en">ISBN</name>
+      </valueCode>
+      <valueCode key="naid" sequence="5">
+        <name xml:lang="ja">NII 論文 ID</name>
+        <name xml:lang="en">NII Article ID</name>
+      </valueCode>
+      <valueCode key="patent_application_type" sequence="6">
+        <name xml:lang="ja">産業財産権 特許種別</name>
+        <name xml:lang="en">Industrial Property Type(産業財産権種類/NII)
+Type of Industrial Property Rights(産業財産権の種類/JSPS)</name>
+      </valueCode>
+      <valueCode key="patent_application_number" sequence="7">
+        <name xml:lang="ja">産業財産権 出願番号</name>
+        <name xml:lang="en">Industrial Property Number(産業財産権番号/NII)
+Number of Industrial Property Rights(産業財産権の番号/JSPS)</name>
+      </valueCode>
+      <valueCode key="patent_publication_number" sequence="8">
+        <name xml:lang="ja">産業財産権 公開番号</name>
+        <name xml:lang="en">Patent Publication Number</name>
+      </valueCode>
+      <valueCode key="url" sequence="9">
+        <name xml:lang="ja">URL</name>
+        <name xml:lang="en">URL</name>
+      </valueCode>
+    </code>
+    <code key="inspectionStatusCode">
+      <name xml:lang="ja">検証結果 (区分)</name>
+      <name xml:lang="en">Verification Result (Rating)</name>
+      <valueCode key="A+" sequence="1">
+        <name xml:lang="ja">A+</name>
+        <name xml:lang="en">A+</name>
+      </valueCode>
+      <valueCode key="A" sequence="2">
+        <name xml:lang="ja">A</name>
+        <name xml:lang="en">A</name>
+      </valueCode>
+      <valueCode key="A-" sequence="3">
+        <name xml:lang="ja">A-</name>
+        <name xml:lang="en">A-</name>
+      </valueCode>
+      <valueCode key="B" sequence="4">
+        <name xml:lang="ja">B</name>
+        <name xml:lang="en">B</name>
+      </valueCode>
+      <valueCode key="C" sequence="5">
+        <name xml:lang="ja">C</name>
+        <name xml:lang="en">C</name>
+      </valueCode>
+    </code>
+    <code key="invitedFlag">
+      <name xml:lang="ja">招待講演</name>
+      <name xml:lang="en">Invited</name>
+      <valueCode key="false" sequence="1">
+        <name xml:lang="ja">招待講演でない</name>
+        <name xml:lang="en">Not Invited</name>
+      </valueCode>
+      <valueCode key="true" sequence="2">
+        <name xml:lang="ja">招待講演</name>
+        <name xml:lang="en">Invited</name>
+      </valueCode>
+    </code>
+    <code key="language">
+      <name xml:lang="ja">言語</name>
+      <name xml:lang="en">Language</name>
+      <valueCode key="ja" sequence="1">
+        <name xml:lang="ja">日本語</name>
+        <name xml:lang="en">Japanese</name>
+      </valueCode>
+      <valueCode key="en" sequence="2">
+        <name xml:lang="ja">英語</name>
+        <name xml:lang="en">English</name>
+      </valueCode>
+      <valueCode key="zh" sequence="3">
+        <name xml:lang="ja">中国語</name>
+        <name xml:lang="en">Chinese</name>
+      </valueCode>
+      <valueCode key="ko" sequence="4">
+        <name xml:lang="ja">韓国語</name>
+        <name xml:lang="en">Korean</name>
+      </valueCode>
+      <valueCode key="ru" sequence="5">
+        <name xml:lang="ja">ロシア語</name>
+        <name xml:lang="en">Russian</name>
+      </valueCode>
+      <valueCode key="es" sequence="6">
+        <name xml:lang="ja">スペイン語</name>
+        <name xml:lang="en">Spanish</name>
+      </valueCode>
+    </code>
+    <code key="memberAttributeType">
+      <name xml:lang="ja">研究者属性種別</name>
+      <name xml:lang="en">Member Attribute Type</name>
+      <valueCode key="institution" sequence="1">
+        <name xml:lang="ja">所属機関</name>
+        <name xml:lang="en">Affiliation(Research Institution/JSPS)</name>
+      </valueCode>
+      <valueCode key="department" sequence="2">
+        <name xml:lang="ja">所属部局</name>
+        <name xml:lang="en">Academic Unit</name>
+      </valueCode>
+      <valueCode key="job_title" sequence="3">
+        <name xml:lang="ja">職</name>
+        <name xml:lang="en">Position</name>
+      </valueCode>
+    </code>
+    <code key="memberStatusCode">
+      <name xml:lang="ja">研究者ステータスコード</name>
+      <name xml:lang="en">Member Status Code</name>
+      <valueCode key="declined" sequence="1">
+        <name xml:lang="ja">辞退</name>
+        <name xml:lang="en">Withdrawn</name>
+      </valueCode>
+    </code>
+    <code key="openAccessFlag">
+      <name xml:lang="ja">オープンアクセスとしているかどうか</name>
+      <name xml:lang="en">Open Access Compliant</name>
+      <valueCode key="false" sequence="1">
+        <name xml:lang="ja">オープンアクセスではない</name>
+        <name xml:lang="en">Restricted Access</name>
+      </valueCode>
+      <valueCode key="true" sequence="2">
+        <name xml:lang="ja">オープンアクセス</name>
+        <name xml:lang="en">Open Access</name>
+      </valueCode>
+    </code>
+    <code key="overallFlag">
+      <name xml:lang="ja">総額かどうか</name>
+      <name xml:lang="en">総額かどうか</name>
+      <valueCode key="false" sequence="1">
+        <name xml:lang="ja">総額でない</name>
+        <name xml:lang="en">false</name>
+      </valueCode>
+      <valueCode key="true" sequence="2">
+        <name xml:lang="ja">総額である</name>
+        <name xml:lang="en">true</name>
+      </valueCode>
+    </code>
+    <code key="paragraphListType">
+      <name xml:lang="ja">段落リスト種別</name>
+      <name xml:lang="en">Paragraph List Type</name>
+      <valueCode key="abstract" sequence="1">
+        <name xml:lang="ja">研究概要</name>
+        <name xml:lang="en">Research Abstract</name>
+      </valueCode>
+      <valueCode key="progress" sequence="2">
+        <name xml:lang="ja">現在までの達成度 (段落)</name>
+        <name xml:lang="en">Research Progress Status</name>
+      </valueCode>
+      <valueCode key="planning_scheme" sequence="3">
+        <name xml:lang="ja">今後の研究の推進方策</name>
+        <name xml:lang="en">Strategy for Future Research Activity</name>
+      </valueCode>
+      <valueCode key="planning_budget_expenditure" sequence="4">
+        <name xml:lang="ja">次年度の研究費の使用計画</name>
+        <name xml:lang="en">Expenditure Plans for the Next FY Research Funding</name>
+      </valueCode>
+      <valueCode key="purpose" sequence="5">
+        <name xml:lang="ja">研究の目的</name>
+        <name xml:lang="en">Aims of Research</name>
+      </valueCode>
+      <valueCode key="implementation_schedule" sequence="6">
+        <name xml:lang="ja">本年度の研究実施計画</name>
+        <name xml:lang="en">Research Implementation Plan</name>
+      </valueCode>
+      <valueCode key="remark" sequence="7">
+        <name xml:lang="ja">所見</name>
+        <name xml:lang="en">Comment</name>
+      </valueCode>
+      <valueCode key="common_remark" sequence="8">
+        <name xml:lang="ja">共通所見</name>
+        <name xml:lang="en">Mutual Oppinion</name>
+      </valueCode>
+      <valueCode key="assessment" sequence="9">
+        <name xml:lang="ja">評価</name>
+        <name xml:lang="en">Assessment</name>
+      </valueCode>
+      <valueCode key="assessment_result" sequence="10">
+        <name xml:lang="ja">評価結果</name>
+        <name xml:lang="en">Assessment</name>
+      </valueCode>
+      <valueCode key="inspection" sequence="11">
+        <name xml:lang="ja">検証結果</name>
+        <name xml:lang="en">Verification Results of Research Outcome</name>
+      </valueCode>
+      <valueCode key="conclusion" sequence="12">
+        <name xml:lang="ja">結び</name>
+        <name xml:lang="en">Conclusion</name>
+      </valueCode>
+      <valueCode key="note" sequence="13">
+        <name xml:lang="ja">備考</name>
+        <name xml:lang="en">Remarks</name>
+      </valueCode>
+      <valueCode key="outline_of_research_performance" sequence="14">
+        <name xml:lang="ja">研究実績の概要</name>
+        <name xml:lang="en">Outline of Annual Research Achievements</name>
+      </valueCode>
+      <valueCode key="outline_of_research_achievement" sequence="15">
+        <name xml:lang="ja">研究成果の概要</name>
+        <name xml:lang="en">Outline of Final Research Achievements</name>
+      </valueCode>
+      <valueCode key="reason_of_carry_over" sequence="16">
+        <name xml:lang="ja">次年度使用額が生じた理由</name>
+        <name xml:lang="en">Causes of Carryover</name>
+      </valueCode>
+      <valueCode key="plan_of_carry_over" sequence="17">
+        <name xml:lang="ja">次年度使用額の使用計画</name>
+        <name xml:lang="en">Expenditure Plan for Carryover Budget</name>
+      </valueCode>
+      <valueCode key="free_research_field" sequence="18">
+        <name xml:lang="ja">自由記述の分野</name>
+        <name xml:lang="en">Free Research Field</name>
+      </valueCode>
+      <valueCode key="custom" sequence="19">
+        <name xml:lang="ja">支援機能</name>
+        <name xml:lang="en">Support Function</name>
+      </valueCode>
+      <valueCode key="screening_remark" sequence="20">
+        <name xml:lang="ja">審査結果の所見の概要</name>
+        <name xml:lang="en">Outline of Opinions Expressed in the Review Results</name>
+      </valueCode>
+      <valueCode key="outline_of_research_initial" sequence="21">
+        <name xml:lang="ja">研究開始時の研究の概要</name>
+        <name xml:lang="en">Outline of Research at the Start</name>
+      </valueCode>
+      <valueCode key="significance_of_research_achievement" sequence="22">
+        <name xml:lang="ja">研究成果の学術的意義や社会的意義</name>
+        <name xml:lang="en">Academic Significance and Societal Importance of the Research Achievements</name>
+      </valueCode>
+      <valueCode key="outline_of_research_screening" sequence="23">
+        <name xml:lang="ja">研究の概要</name>
+        <name xml:lang="en">Summary of the Research Project</name>
+      </valueCode>
+      <valueCode key="significance_of_research_planning" sequence="24">
+        <name xml:lang="ja">学術的意義、期待される成果</name>
+        <name xml:lang="en">Scientific Significance and Expected Research Achievements</name>
+      </valueCode>
+    </code>
+    <code key="plannedAmountFlag">
+      <name xml:lang="ja">計画額フラグ</name>
+      <name xml:lang="en">Planned Amount</name>
+      <valueCode key="false" sequence="1">
+        <name xml:lang="ja">配分額</name>
+        <name xml:lang="en">Budget Amount</name>
+      </valueCode>
+      <valueCode key="true" sequence="2">
+        <name xml:lang="ja">計画額</name>
+        <name xml:lang="en">Budget Amount(Planned)</name>
+      </valueCode>
+    </code>
+    <code key="productLanguage">
+      <name xml:lang="ja">言語</name>
+      <name xml:lang="en">Language</name>
+      <valueCode key="jpn" sequence="1">
+        <name xml:lang="ja">日本語</name>
+        <name xml:lang="en">Japanese</name>
+      </valueCode>
+      <valueCode key="eng" sequence="2">
+        <name xml:lang="ja">英語</name>
+        <name xml:lang="en">English</name>
+      </valueCode>
+    </code>
+    <code key="productType">
+      <name xml:lang="ja">研究成果種別</name>
+      <name xml:lang="en">Research Products Type</name>
+      <valueCode key="jointInternational" sequence="1">
+        <name xml:lang="ja">国際共同研究</name>
+        <name xml:lang="en">Int'l Joint Research</name>
+      </valueCode>
+      <valueCode key="journal_article" sequence="2">
+        <name xml:lang="ja">雑誌論文</name>
+        <name xml:lang="en">Journal Article</name>
+      </valueCode>
+      <valueCode key="presentation" sequence="3">
+        <name xml:lang="ja">学会発表</name>
+        <name xml:lang="en">Presentation</name>
+      </valueCode>
+      <valueCode key="book" sequence="4">
+        <name xml:lang="ja">図書</name>
+        <name xml:lang="en">Book</name>
+      </valueCode>
+      <valueCode key="press" sequence="5">
+        <name xml:lang="ja">プレス/新聞発表</name>
+        <name xml:lang="en">Press Release</name>
+      </valueCode>
+      <valueCode key="note" sequence="6">
+        <name xml:lang="ja">備考</name>
+        <name xml:lang="en">Remarks</name>
+      </valueCode>
+      <valueCode key="patent" sequence="7">
+        <name xml:lang="ja">産業財産権</name>
+        <name xml:lang="en">Patent(Industrial Property Rights)</name>
+      </valueCode>
+      <valueCode key="symposium" sequence="8">
+        <name xml:lang="ja">学会・シンポジウム開催</name>
+        <name xml:lang="en">Funded Workshop</name>
+      </valueCode>
+      <valueCode key="publication" sequence="9">
+        <name xml:lang="ja">文献書誌</name>
+        <name xml:lang="en">Publications</name>
+      </valueCode>
+    </code>
+    <code key="progressStatusCode">
+      <name xml:lang="ja">現在までの達成度 (区分)</name>
+      <name xml:lang="en">Current Status of Research Progress</name>
+      <valueCode key="1" sequence="1">
+        <name xml:lang="ja">当初の計画以上に進展している</name>
+        <name xml:lang="en">Research has progressed more than it was originally planned.</name>
+      </valueCode>
+      <valueCode key="2" sequence="2">
+        <name xml:lang="ja">おおむね順調に進展している</name>
+        <name xml:lang="en">Research has progressed on the whole more than it was originally planned.</name>
+      </valueCode>
+      <valueCode key="3" sequence="3">
+        <name xml:lang="ja">やや遅れている</name>
+        <name xml:lang="en">Progress in research has been slightly delayed.</name>
+      </valueCode>
+      <valueCode key="4" sequence="4">
+        <name xml:lang="ja">遅れている</name>
+        <name xml:lang="en">Progress in research has been delayed.</name>
+      </valueCode>
+    </code>
+    <code key="projectAttributeType">
+      <name xml:lang="ja">属性種別</name>
+      <name xml:lang="en">Attribute Type</name>
+      <valueCode key="category" sequence="1">
+        <name xml:lang="ja">研究種目</name>
+        <name xml:lang="en">Category</name>
+      </valueCode>
+      <valueCode key="section" sequence="2">
+        <name xml:lang="ja">応募区分</name>
+        <name xml:lang="en">Section</name>
+      </valueCode>
+      <valueCode key="field" sequence="3">
+        <name xml:lang="ja">研究分野</name>
+        <name xml:lang="en">Field</name>
+      </valueCode>
+      <valueCode key="institution" sequence="4">
+        <name xml:lang="ja">研究機関</name>
+        <name xml:lang="en">Institution</name>
+      </valueCode>
+      <valueCode key="agency" sequence="5">
+        <name xml:lang="ja">ファンディング機関</name>
+        <name xml:lang="en">Funding Agency</name>
+      </valueCode>
+      <valueCode key="allocation" sequence="6">
+        <name xml:lang="ja">配分区分</name>
+        <name xml:lang="en">Allocation Type</name>
+      </valueCode>
+      <valueCode key="jointInternational" sequence="7">
+        <name xml:lang="ja">国際共同研究フラグ</name>
+        <name xml:lang="en">国際共同研究フラグ</name>
+      </valueCode>
+      <valueCode key="reviewSection" sequence="8">
+        <name xml:lang="ja">審査区分</name>
+        <name xml:lang="en">Review Section</name>
+      </valueCode>
+    </code>
+    <code key="projectStatusCode">
+      <name xml:lang="ja">研究課題ステータスコード</name>
+      <name xml:lang="en">Project Status Code</name>
+      <valueCode key="adopted" sequence="1">
+        <name xml:lang="ja">採択</name>
+        <name xml:lang="en">Adopted</name>
+      </valueCode>
+      <valueCode key="granted" sequence="2">
+        <name xml:lang="ja">交付</name>
+        <name xml:lang="en">Granted</name>
+      </valueCode>
+      <valueCode key="ceased" sequence="3">
+        <name xml:lang="ja">中断</name>
+        <name xml:lang="en">Ceased</name>
+      </valueCode>
+      <valueCode key="suspended" sequence="4">
+        <name xml:lang="ja">留保</name>
+        <name xml:lang="en">Suspended</name>
+      </valueCode>
+      <valueCode key="project_closed" sequence="5">
+        <name xml:lang="ja">完了</name>
+        <name xml:lang="en">Completed</name>
+      </valueCode>
+      <valueCode key="declined" sequence="6">
+        <name xml:lang="ja">採択後辞退</name>
+        <name xml:lang="en">Declined</name>
+      </valueCode>
+      <valueCode key="discontinued" sequence="7">
+        <name xml:lang="ja">中途終了</name>
+        <name xml:lang="en">Discontinued</name>
+      </valueCode>
+    </code>
+    <code key="projectType">
+      <name xml:lang="ja">研究課題種別</name>
+      <name xml:lang="en">Project Type</name>
+      <valueCode key="area" sequence="1">
+        <name xml:lang="ja">領域</name>
+        <name xml:lang="en">Research Areas</name>
+      </valueCode>
+      <valueCode key="project" sequence="2">
+        <name xml:lang="ja">研究課題</name>
+        <name xml:lang="en">Research Project</name>
+      </valueCode>
+      <valueCode key="organizer" sequence="3">
+        <name xml:lang="ja">総括班</name>
+        <name xml:lang="en">Administrative Group</name>
+      </valueCode>
+      <valueCode key="wrapup" sequence="4">
+        <name xml:lang="ja">成果取りまとめ</name>
+        <name xml:lang="en">Compiling the Research Achievements</name>
+      </valueCode>
+      <valueCode key="planned" sequence="5">
+        <name xml:lang="ja">計画研究</name>
+        <name xml:lang="en">Planned Research</name>
+      </valueCode>
+      <valueCode key="publicly" sequence="6">
+        <name xml:lang="ja">公募研究</name>
+        <name xml:lang="en">Publicly Offered Research</name>
+      </valueCode>
+      <valueCode key="international" sequence="7">
+        <name xml:lang="ja">国際活動支援班</name>
+        <name xml:lang="en">International Activities Supporting Group</name>
+      </valueCode>
+    </code>
+    <code key="recordSet">
+      <name xml:lang="ja">レコードセット</name>
+      <name xml:lang="en">Record Set</name>
+      <valueCode key="kakenhi" sequence="1">
+        <name xml:lang="ja">科学研究費助成事業</name>
+        <name xml:lang="en">Grants-in-Aid for Scientific Research</name>
+      </valueCode>
+    </code>
+    <code key="remark_chukanStatusCode">
+      <name xml:lang="ja">中間評価所見 (区分)</name>
+      <name xml:lang="en">Interim Assessment Comments (Rating)</name>
+      <valueCode key="A+" sequence="1">
+        <name xml:lang="ja">研究領域の設定目的に照らして、期待以上の進展が認められる</name>
+        <name xml:lang="en">In light of the aim of introducing the research area into the research categories, more progress has been made in research than expected.</name>
+      </valueCode>
+      <valueCode key="A" sequence="2">
+        <name xml:lang="ja">研究領域の設定目的に照らして、期待どおりの進展が認められる</name>
+        <name xml:lang="en">In light of the aim of introducing the research area into the research categories, the expected progress has been made in research.</name>
+      </valueCode>
+      <valueCode key="A-" sequence="3">
+        <name xml:lang="ja">研究領域の設定目的に照らして、概ね期待どおりの進展が認められるが、一部に遅れが認められる</name>
+        <name xml:lang="en">In light of the aim of introducing the research area into the research categories, the expected progress in research has been made on the whole though a part of it has been delayed.</name>
+      </valueCode>
+      <valueCode key="B" sequence="4">
+        <name xml:lang="ja">研究領域の設定目的に照らして研究が遅れており、今後一層の努力が必要である</name>
+        <name xml:lang="en">In light of the aim of introducing the research area into the research categories, progress in research has been delayed. Further efforts are required in future.</name>
+      </valueCode>
+      <valueCode key="C" sequence="5">
+        <name xml:lang="ja">研究領域の設定目的に照らして、研究成果が見込まれないため、研究費の減額又は助成の停止が適当である</name>
+        <name xml:lang="en">In light of the aim of introducing the research area into the research categories, there is no prospect of producing results from research. The payment of research funding should be either reduced or stopped.</name>
+      </valueCode>
+    </code>
+    <code key="remark_jigoStatusCode">
+      <name xml:lang="ja">事後評価所見 (区分)</name>
+      <name xml:lang="en">Ex-post Assessment Comments (Rating)</name>
+      <valueCode key="A+" sequence="1">
+        <name xml:lang="ja">研究領域の設定目的に照らして、期待以上の成果があった</name>
+        <name xml:lang="en">In light of the aim of introducing the research area into the research categories, more research outcomes have been produced than expected.</name>
+      </valueCode>
+      <valueCode key="A" sequence="2">
+        <name xml:lang="ja">研究領域の設定目的に照らして、期待どおりの成果があった</name>
+        <name xml:lang="en">In light of the aim of introducing the research area into the research categories, expected outcomes of research have been produced.</name>
+      </valueCode>
+      <valueCode key="A-" sequence="3">
+        <name xml:lang="ja">研究領域の設定目的に照らして、概ね期待どおりの成果があったが、一部に遅れが認められた</name>
+        <name xml:lang="en"> In light of the aim of introducing the research area into the research categories, expected outcomes of research have been produced on the whole though the progress in a part of the research has been delayed.</name>
+      </valueCode>
+      <valueCode key="B" sequence="4">
+        <name xml:lang="ja">研究領域の設定目的に照らして、十分ではなかったが一応の成果があった</name>
+        <name xml:lang="en">In light of the aim of introducing the research area into the research categories, research outcomes have been produced to a certain extent, but not sufficient.</name>
+      </valueCode>
+      <valueCode key="C" sequence="5">
+        <name xml:lang="ja">十分な成果があったとは言い難い</name>
+        <name xml:lang="en">It is difficult to say that satisfactory research outcomes have been produced.</name>
+      </valueCode>
+    </code>
+    <code key="reportType">
+      <name xml:lang="ja">報告書/評価種別</name>
+      <name xml:lang="en">Report Type</name>
+      <valueCode key="jiseki_hokoku" sequence="1">
+        <name xml:lang="ja">実績報告書</name>
+        <name xml:lang="en">Annual Research Report</name>
+      </valueCode>
+      <valueCode key="jiko_hyoka_hokoku" sequence="2">
+        <name xml:lang="ja">自己評価報告書</name>
+        <name xml:lang="en">Self-evaluation Report</name>
+      </valueCode>
+      <valueCode key="kenkyu_shinchoku_hyoka" sequence="3">
+        <name xml:lang="ja">研究進捗評価</name>
+        <name xml:lang="en">Research progress assessment</name>
+      </valueCode>
+      <valueCode key="kenkyu_seika_hokoku_gaiyo" sequence="4">
+        <name xml:lang="ja">研究成果報告書概要</name>
+        <name xml:lang="en">Final Research Report Summary</name>
+      </valueCode>
+      <valueCode key="chukan_hyoka_hokoku" sequence="5">
+        <name xml:lang="ja">中間評価報告書</name>
+        <name xml:lang="en">Interim Assessment Report</name>
+      </valueCode>
+      <valueCode key="jigo_hyoka_hokoku" sequence="6">
+        <name xml:lang="ja">事後評価報告書</name>
+        <name xml:lang="en">Ex-post Assessment Report</name>
+      </valueCode>
+      <valueCode key="jishi_jokyo_hokoku" sequence="7">
+        <name xml:lang="ja">実施状況報告書</name>
+        <name xml:lang="en">Research-status Report</name>
+      </valueCode>
+      <valueCode key="kenkyu_seika_hokoku" sequence="8">
+        <name xml:lang="ja">研究成果報告書</name>
+        <name xml:lang="en">Final Research Report</name>
+      </valueCode>
+      <valueCode key="saitaku_shoken" sequence="9">
+        <name xml:lang="ja">審査結果の所見</name>
+        <name xml:lang="en">Comments on the Screening Results</name>
+      </valueCode>
+      <valueCode key="saitaku_gaiyo" sequence="10">
+        <name xml:lang="ja">研究概要(採択時)</name>
+        <name xml:lang="en">Abstract</name>
+      </valueCode>
+      <valueCode key="kenkyu_shinchoku_hyoka_gaiyo" sequence="11">
+        <name xml:lang="ja">研究概要(研究進捗評価)</name>
+        <name xml:lang="en">Abstract(Research Progress Assessment)</name>
+      </valueCode>
+      <valueCode key="kenkyu_shinchoku_hyoka_genchi_chosa" sequence="12">
+        <name xml:lang="ja">研究進捗評価(現地調査コメント)</name>
+        <name xml:lang="en">Research Progress Assessment (Comments on the Site Visits) </name>
+      </valueCode>
+      <valueCode key="kenkyu_shinchoku_hyoka_keka" sequence="13">
+        <name xml:lang="ja">研究進捗評価(評価結果)</name>
+        <name xml:lang="en">Research Progress Assessment (Result)</name>
+      </valueCode>
+      <valueCode key="kenkyu_shinchoku_hyoka_kensho" sequence="14">
+        <name xml:lang="ja">研究進捗評価(検証)</name>
+        <name xml:lang="en">Research Progress Assessment (Verification Result)</name>
+      </valueCode>
+      <valueCode key="tsuiseki_hyoka_shoken" sequence="15">
+        <name xml:lang="ja">評価の所見(追跡評価)</name>
+        <name xml:lang="en">Comments (Follow-up Assessment)</name>
+      </valueCode>
+      <valueCode key="tsuiseki_hyoka_jiko_hyoka" sequence="16">
+        <name xml:lang="ja">自己評価書(追跡評価)</name>
+        <name xml:lang="en">Self-evaluation (Follow-up Assessment)</name>
+      </valueCode>
+      <valueCode key="tsuiseki_hyoka_kenkyu_gaiyo" sequence="17">
+        <name xml:lang="ja">研究概要(追跡評価)</name>
+        <name xml:lang="en">Abstract(Follow-up Assessment)</name>
+      </valueCode>
+      <valueCode key="chukan_hyoka_shoken" sequence="18">
+        <name xml:lang="ja">中間評価(所見)</name>
+        <name xml:lang="en">Interim Assessment (Comments)</name>
+      </valueCode>
+      <valueCode key="jigo_hyoka_shoken" sequence="19">
+        <name xml:lang="ja">事後評価(所見)</name>
+        <name xml:lang="en">Ex-post Assessment (Comments)</name>
+      </valueCode>
+      <valueCode key="kenkyu_seika_hapyo_hokoku" sequence="20">
+        <name xml:lang="ja">研究成果発表報告書</name>
+        <name xml:lang="en">Products Report</name>
+      </valueCode>
+      <valueCode key="chukan_hyoka_gaiyo" sequence="21">
+        <name xml:lang="ja">研究概要(中間評価)</name>
+        <name xml:lang="en">Abstract (Interim Assessment)</name>
+      </valueCode>
+    </code>
+    <code key="researcherNumberType">
+      <name xml:lang="ja">研究者番号種別</name>
+      <name xml:lang="en">Researcher Number Type</name>
+      <valueCode key="erad" sequence="1">
+        <name xml:lang="ja">e-Rad 研究者番号</name>
+        <name xml:lang="en">e-Rad  Researcher Number</name>
+      </valueCode>
+    </code>
+    <code key="reviewedFlag">
+      <name xml:lang="ja">査読の有無</name>
+      <name xml:lang="en">Peer Reviewed</name>
+      <valueCode key="false" sequence="1">
+        <name xml:lang="ja">査読なし</name>
+        <name xml:lang="en">Not Peer Reviewed</name>
+      </valueCode>
+      <valueCode key="true" sequence="2">
+        <name xml:lang="ja">査読あり</name>
+        <name xml:lang="en">Peer Reviewed</name>
+      </valueCode>
+    </code>
+    <code key="role">
+      <name xml:lang="ja">役割</name>
+      <name xml:lang="en">Role</name>
+      <valueCode key="principal_investigator" sequence="1">
+        <name xml:lang="ja">研究代表者</name>
+        <name xml:lang="en">Principal Investigator</name>
+      </valueCode>
+      <valueCode key="area_organizer" sequence="2">
+        <name xml:lang="ja">領域代表者</name>
+        <name xml:lang="en">Area Organizer</name>
+      </valueCode>
+      <valueCode key="co_investigator_buntan" sequence="3">
+        <name xml:lang="ja">研究分担者</name>
+        <name xml:lang="en">Co-Investigator(Kenkyū-buntansha)</name>
+      </valueCode>
+      <valueCode key="co_investigator_renkei" sequence="4">
+        <name xml:lang="ja">連携研究者</name>
+        <name xml:lang="en">Co-Investigator(Renkei-kenkyūsha)</name>
+      </valueCode>
+      <valueCode key="research_collaborator" sequence="5">
+        <name xml:lang="ja">研究協力者</name>
+        <name xml:lang="en">Research Collaborator</name>
+      </valueCode>
+      <valueCode key="research_fellow" sequence="6">
+        <name xml:lang="ja">特別研究員</name>
+        <name xml:lang="en">Research Fellow</name>
+      </valueCode>
+      <valueCode key="host_researcher" sequence="7">
+        <name xml:lang="ja">受入研究者</name>
+        <name xml:lang="en">Host Researcher</name>
+      </valueCode>
+      <valueCode key="foreign_research_fellow" sequence="8">
+        <name xml:lang="ja">外国人特別研究員</name>
+        <name xml:lang="en">Foreign Research Fellow</name>
+      </valueCode>
+      <valueCode key="principal_investigator_support" sequence="9">
+        <name xml:lang="ja">研究支援代表者</name>
+        <name xml:lang="en">Principal Investigator(Support)</name>
+      </valueCode>
+      <valueCode key="co_investigator_buntan_support" sequence="10">
+        <name xml:lang="ja">研究支援分担者</name>
+        <name xml:lang="en">Co-Investigator(Kenkyū-buntansha)(Support)</name>
+      </valueCode>
+      <valueCode key="co_investigator_renkei_support" sequence="11">
+        <name xml:lang="ja">連携研究支援者</name>
+        <name xml:lang="en">Co-Investigator(Renkei-kenkyūsha)(Support)</name>
+      </valueCode>
+      <valueCode key="research_collaborator_support" sequence="12">
+        <name xml:lang="ja">研究支援協力者</name>
+        <name xml:lang="en">Research Collaborator(Support)</name>
+      </valueCode>
+    </code>
+    <code key="searchOutputRecord">
+      <name xml:lang="ja">選択レコードの出力</name>
+      <name xml:lang="en">Export Records</name>
+      <valueCode key="xml" sequence="1">
+        <name xml:lang="ja">XMLで出力</name>
+        <name xml:lang="en">Export as XML</name>
+      </valueCode>
+      <valueCode key="csv" sequence="2">
+        <name xml:lang="ja">テキスト(CSV)で出力</name>
+        <name xml:lang="en">Export as Text (CSV)</name>
+      </valueCode>
+    </code>
+    <code key="searchRangePeriod">
+      <name xml:lang="ja">研究期間の範囲条件</name>
+      <name xml:lang="en">Project Period (Scope of the Fiscal Year)</name>
+      <valueCode key="1" sequence="1">
+        <name xml:lang="ja">開始年度</name>
+        <name xml:lang="en">FY of Project Start</name>
+      </valueCode>
+      <valueCode key="2" sequence="2">
+        <name xml:lang="ja">終了年度</name>
+        <name xml:lang="en">FY of Project End</name>
+      </valueCode>
+      <valueCode key="3" sequence="3">
+        <name xml:lang="ja">実施期間の一部を含む</name>
+        <name xml:lang="en">Period</name>
+      </valueCode>
+      <valueCode key="4" sequence="4">
+        <name xml:lang="ja">実施期間の全部を含む</name>
+        <name xml:lang="en">Period - Full</name>
+      </valueCode>
+    </code>
+    <code key="internalFlag">
+      <name xml:lang="ja">内部用フラグ</name>
+      <name xml:lang="en">Internal</name>
+      <valueCode key="1" sequence="1">
+        <name xml:lang="ja">公開用</name>
+        <name xml:lang="en">Publish</name>
+      </valueCode>
+      <valueCode key="2" sequence="2">
+        <name xml:lang="ja">内部用</name>
+        <name xml:lang="en">Internal</name>
+      </valueCode>
+    </code>
+    <code key="recordLanguage">
+      <name xml:lang="ja">記述言語</name>
+      <name xml:lang="en">記述言語</name>
+      <valueCode key="jpn" sequence="1">
+        <name xml:lang="ja">日本語</name>
+        <name xml:lang="en">Japanese</name>
+      </valueCode>
+      <valueCode key="eng" sequence="2">
+        <name xml:lang="ja">英語</name>
+        <name xml:lang="en">English</name>
+      </valueCode>
+    </code>
+    <code key="grantAwardIdentifierType">
+      <name xml:lang="ja">研究課題の識別子種別</name>
+      <name xml:lang="en">研究課題の識別子種別</name>
+      <valueCode key="doi" sequence="1">
+        <name xml:lang="ja">DOI</name>
+        <name xml:lang="en">DOI</name>
+      </valueCode>
+      <valueCode key="nationalAwardNumber" sequence="2">
+        <name xml:lang="ja">統一課題番号</name>
+        <name xml:lang="en">National Award Number</name>
+      </valueCode>
+    </code>
+    <code key="allocation">
+      <name xml:lang="ja">配分区分</name>
+      <name xml:lang="en">Allocation Type</name>
+      <valueCode key="hojokin" sequence="1">
+        <name xml:lang="ja">補助金</name>
+        <name xml:lang="en">Single-year Grant</name>
+      </valueCode>
+      <valueCode key="kikin" sequence="2">
+        <name xml:lang="ja">基金</name>
+        <name xml:lang="en">Multi-year Fund</name>
+      </valueCode>
+      <valueCode key="ichibu_kikin" sequence="3">
+        <name xml:lang="ja">一部基金</name>
+        <name xml:lang="en">Partial Multi-year Fund</name>
+      </valueCode>
+    </code>
+    <code key="accessStatus">
+      <name xml:lang="ja">アクセスステータス</name>
+      <name xml:lang="en">アクセスステータス</name>
+      <valueCode key="open" sequence="1">
+        <name xml:lang="ja">オープンアクセス</name>
+        <name xml:lang="en">オープンアクセス</name>
+      </valueCode>
+      <valueCode key="restricted" sequence="2">
+        <name xml:lang="ja">制限付きオープンアクセス</name>
+        <name xml:lang="en">制限付きオープンアクセス</name>
+      </valueCode>
+      <valueCode key="embargoed" sequence="3">
+        <name xml:lang="ja">制限付きクローズアクセス</name>
+        <name xml:lang="en">制限付きクローズアクセス</name>
+      </valueCode>
+      <valueCode key="closed" sequence="4">
+        <name xml:lang="ja">クローズアクセス</name>
+        <name xml:lang="en">クローズアクセス</name>
+      </valueCode>
+    </code>
+    <code key="jointInternationalFlag">
+      <name xml:lang="ja">国際共著/国際学会フラグ</name>
+      <name xml:lang="en">Int'l Joint Research Flag</name>
+      <valueCode key="true" sequence="1">
+        <name xml:lang="ja">国際共著/国際学会である</name>
+        <name xml:lang="en">Int'l Joint Research</name>
+      </valueCode>
+      <valueCode key="false" sequence="2">
+        <name xml:lang="ja">国際共著/国際学会でない</name>
+        <name xml:lang="en">国際共著/国際学会でない</name>
+      </valueCode>
+    </code>
+    <code key="researcherOutputRecord">
+      <name xml:lang="ja">選択レコードの出力</name>
+      <name xml:lang="en">Export Selected Records</name>
+      <valueCode key="json" sequence="1">
+        <name xml:lang="ja">JSONで出力</name>
+        <name xml:lang="en">Export in JSON Format</name>
+      </valueCode>
+      <valueCode key="csv" sequence="2">
+        <name xml:lang="ja">テキスト(CSV)で出力</name>
+        <name xml:lang="en">Export in CSV Format</name>
+      </valueCode>
+    </code>
+    <code key="reviewSectionTable">
+      <name xml:lang="ja">審査区分</name>
+      <name xml:lang="en">Review Section</name>
+      <valueCode key="review_section" sequence="1">
+        <name xml:lang="ja">審査区分</name>
+        <name xml:lang="en">Review Section</name>
+      </valueCode>
+      <valueCode key="review_section_tokusui" sequence="2">
+        <name xml:lang="ja">審査区分(特別推進研究)</name>
+        <name xml:lang="en">Review Section (Specially Promoted Research)</name>
+      </valueCode>
+      <valueCode key="review_section_kensuta" sequence="3">
+        <name xml:lang="ja">審査区分(研究活動スタート支援)</name>
+        <name xml:lang="en">Review Section (Research Activity Start-up)</name>
+      </valueCode>
+      <valueCode key="review_section_shourei" sequence="4">
+        <name xml:lang="ja">審査区分(奨励研究)</name>
+        <name xml:lang="en">Review Section (Encouragement of Scientists)</name>
+      </valueCode>
+      <valueCode key="review_section_shingaku" sequence="5">
+        <name xml:lang="ja">審査希望区分(新学術領域研究)</name>
+        <name xml:lang="en">Review Section (Scientific Research on Innovative Areas)</name>
+      </valueCode>
+      <valueCode key="review_section_ryoiki" sequence="6">
+        <name xml:lang="ja">審査希望部門(特定領域研究)</name>
+        <name xml:lang="en">Review Section (Scientific Research on Priority Areas)</name>
+      </valueCode>
+      <valueCode key="tokusetsu_ryoiki" sequence="7">
+        <name xml:lang="ja">特設審査領域</name>
+        <name xml:lang="en">Generative Research Fields Review Division</name>
+      </valueCode>
+      <valueCode key="review_section_tokken" sequence="8">
+        <name xml:lang="ja">審査区分(特別研究員奨励費)</name>
+        <name xml:lang="en">Review Section (JSPS Research Fellow)</name>
+      </valueCode>
+      <valueCode key="review_section_gakuhen" sequence="9">
+        <name xml:lang="ja">審査区分(学術変革領域研究)</name>
+        <name xml:lang="en">Review section (Grant-in-Aid for Transformative Research Areas)</name>
+      </valueCode>
+      <valueCode key="review_section_kikoku" sequence="10">
+        <name xml:lang="ja">審査区分 (帰国発展研究)</name>
+        <name xml:lang="en">Review Section (Home-Returning Researcher Development Research)</name>
+      </valueCode>
+    </code>
+    <code key="search_jointInternationalFlag">
+      <name xml:lang="ja">国際共著論文</name>
+      <name xml:lang="en">Int'l Joint Research</name>
+      <valueCode key="true" sequence="1">
+        <name xml:lang="ja">国際共著論文である</name>
+        <name xml:lang="en">Int'l Joint Research</name>
+      </valueCode>
+    </code>
+  </codeTable>
+</codeList>
