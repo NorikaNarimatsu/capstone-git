@@ -46,6 +46,9 @@ See https://support.nii.ac.jp/ja/cinii/api/developer for details. After the regi
 2. Need to install MariaDB locally and keep running while coding. 
 
 ## How to Run the RDD and DID analysis 
+Before running, RDD or DiD analysis, you first have to parse KAKEN data and save it to a local MariaDB database. 
+
+
 Step1. clone the repository
 ```
 git clone [https://github.com/NorikaNarimatsu/capstone-git]
