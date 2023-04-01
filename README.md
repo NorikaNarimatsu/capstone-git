@@ -5,10 +5,12 @@
 *Minerva University Capstone Project*
 
 ## Research question:
-*How can we effectively communicate the extent and depth of global inequality using data visualizations and summary statistics?*
+*What is the impact of flexible funding system implementation in KAKENHI on scientific outputs?*
 
 ## Data Sources:
-Although we acknowledge that reducing global inequality requires high-level transformative changes with appropriate political and economic policies, there are several things we can do at the individual level. Thus, we aim to explore the effects of global inequality across different levels of analysis (international, regional, and national) globally for four topics: health, income, environment, and education. Although it is by no means a complete list of topics where global inequality is present, we believe it is a solid start to start educating the general audience.
+The grant information for KAKENHI is available through a public database, KAKEN, provided by the National Institutes of Informatics. This database provides information on research projects supported by the KAKENHI program since 1965, such as grant amount, project members, grant category, scientific field, and resulting publications. I obtained the whole dataset as of 29 Nov 2022 and reconstructed it for this study. The final dataset includes approximately 970,000 grants.
+
+The citation information attributed to KAKENHI projects was obtained through the Web of Science. Web of Science database provides citation reports for academic papers, including the citation impact of individual articles, authors, and journals. I obtained the citation reports for resulting publications for my analysis as of 1 Feb 2023. The final dataset includes approximately 10,000 citation reports.
 
 
 ## Repository Structure:
@@ -16,42 +18,38 @@ Although we acknowledge that reducing global inequality requires high-level tran
 **Main Directory**
 | folder | Content |
 | ------------- | ------------- |
-| quiz_game.py | Contains the actual PyWebIO application |
-| requirements.txt | Contains all requirements (necessary for PyWebIO sharing) |
+| Code | Contains the code to download the data from KAKEN and the code for RDD and DiD |
+| Data | Contains all data used for RDD and DiD |
+| External Sources | Contains all requirements (necessary for PyWebIO sharing) |
 
-**data/Final/**
+**Code/analysis_code/**
 | File | Content |
 | ------------- | ------------- |
-| Datasets.zip| World Bank Development Indicators raw dataset |
-| indicators.csv | Data containing the indicators for the app|
-| countries.csv | Data containing values for countries only (exclusing economic status and regions)|
-| df_countries.csv | Data containing the list of countries |
+| DiD.ipynb| Code to conduct Difference-in-Diffrences Design|
+| RDD.ipynb | Code to conduct Regression Discontinuity Design|
+| datacleaning.ipynb | Code to compile the raw data and create the cleaned dataframe for analysis)|
 
-**Code**
+**Code/database_code/**
 | File | Content |
 | ------------- | ------------- |
-| DS4SG_Data_Importing.ipynb| Notebook used to change and filter the data and exctract a final dataset|
-| questions.py | Python file used to include the questions & the order of the questions |
-| visualizations.py | Python file containing visualizations for the questions |
-| Tests.ipynb | Notebook used to create the question in infinite mode |
-| Visualization Tests.ipynb | Notebook used to test the visualizations |
-| extracting_data.ipynb | Notebook used to filter for a specific topic |
-| pyweb_example.py | An example with a score board |
+| 1_download_xml_files.ipynb| Code to downloading all research projects XML files from KAKEN|
+| 2_parse_master.ipynb | Code to store KAKEN Master Documents to local MariaDB
+|
+| 3_parse_grantaward.ipynb | Code to store all projects between 2000 and 2022 to local MariaDB
+|
 
-## How to Run the Application Locally
-```
-# clone the repository
-git clone https://github.com/berdikhanova/DS4SG-Global-Inequality.git
+**External Sources**
+| File | Content |
+| ------------- | ------------- |
+| KAKEN_definition(API,JSON,XML) | PDF files that contains the definition of master data |
+| grants_masterxml_kaken |  XML files of the master data for KAKEN |
 
-# Go to the directory of the repository
-cd DS4SG-Global-Inequality
+## Working Environment
+1. You need to register to use CiNii Web API to get the data from KAKEN database. 
+See https://support.nii.ac.jp/ja/cinii/api/developer for details. After the registration is completed, you will be notified of the appid by email. 
+ 
+2. Need to install MariaDB locally and keep running while coding. 
 
-# Install required packages
-pip install -r requirements.txt
-
-# Run app
-python quiz_game.py
-```
 
 ## License
 
