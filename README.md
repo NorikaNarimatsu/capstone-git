@@ -46,6 +46,31 @@ See https://support.nii.ac.jp/ja/cinii/api/developer for details. After the regi
 2. Need to install MariaDB locally and keep running while coding. 
 
 
+
+## How to Run the Application Locally
+```
+# clone the repository
+git clone https://github.com/berdikhanova/DS4SG-Global-Inequality.git
+
+# Go to the directory of the repository
+cd DS4SG-Global-Inequality
+
+# Install required packages
+pip install -r requirements.txt
+
+# Run app
+python quiz_game.py
+```
+
+## Dependencies
+
+- Python 3.6 or higher
+- Jupyter Notebook
+- pymysql
+- requests
+- lxml
+- pandas
+
 ## License
 
 Copyright (c) 2022  Narimatsu, N.
